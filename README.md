@@ -6,7 +6,6 @@
 
 ## 🏰[ FRAMEWORK / 프레임워크 ]🏰
 <img src="https://img.shields.io/badge/SPRING-6DB33F?style=flat-square&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/SPRINGBOOT-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> 
-<img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/>
 
 ## 🧽[ STACK / 스택 ]🧽
 <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/> <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white"/>
