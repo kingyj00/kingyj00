@@ -1,9 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=KINGYJ00%20&fontAlign=50&textBg=false)
 
 <div align="center">
-<a href="[자신의 블로그 주소](https://velog.io/@kingyj00/posts)">
-  <img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/>
-</a>
+<a href="https://velog.io/@kingyj00/posts"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
 </div>
 
 <h2 align="center"><b> 🤼[ LANGUAGE / 언어 ]🤼 </b></h2>
